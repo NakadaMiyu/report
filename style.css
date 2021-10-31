@@ -21,11 +21,16 @@ header {
 	height: 100px;
 	background-color: #cc5533;
 }
-
 #logo img{
-	float: left;
-	padding: auto;
+  float: left;
+  padding: 10px;
+  width: 450px;
+  height: auto;
 	}
+#logo2 img{
+ width: 150px;
+ height: auto;
+}
 #headerSub p{
  margin-right: auto;	
  text-decoration: none;
